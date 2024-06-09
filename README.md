@@ -9,3 +9,6 @@ Nama Anggota Kelompok:
 3. Muhammad Iqbal Rasyid			(1301223241)
 4. Marcel Epafroditus Hutahaean		(1301220165)
 5. Sigit Hadi Putranto				(1301223148)
+
+
+[Link Google Colab](https://colab.research.google.com/drive/1Y9xOe6C7EGuPoRqrsgQpgBxU-dQzx549?usp=sharing)
